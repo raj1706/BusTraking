@@ -1,0 +1,20 @@
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql' (tried: ext\php_mysql (The specified module could not be found), ext\php_php_mysql.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Module "gd" is already loaded in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Module "mbstring" is already loaded in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: ext\oci8_12c (The specified module could not be found), ext\php_oci8_12c.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_19' (tried: ext\oci8_19 (The specified module could not be found), ext\php_oci8_19.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: ext\pdo_firebird (The specified module could not be found), ext\php_pdo_firebird.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: ext\pdo_oci (The specified module could not be found), ext\php_pdo_oci.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'php_mysql' (tried: ext\php_mysql (The specified module could not be found), ext\php_php_mysql.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Module "gd" is already loaded in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Module "mbstring" is already loaded in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_12c' (tried: ext\oci8_12c (The specified module could not be found), ext\php_oci8_12c.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'oci8_19' (tried: ext\oci8_19 (The specified module could not be found), ext\php_oci8_19.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_firebird' (tried: ext\pdo_firebird (The specified module could not be found), ext\php_pdo_firebird.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  PHP Startup: Unable to load dynamic library 'pdo_oci' (tried: ext\pdo_oci (The specified module could not be found), ext\php_pdo_oci.dll (The specified module could not be found)) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(C:\Users\VBDBABSCIT\.vscode\extensions\brapifra.phpserver-3.0.2\src\server\logger.php) is not within the allowed path(s): (C:\inetpub\wwwroot) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Unknown: Failed to open stream: Operation not permitted in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Fatal error:  Failed opening required 'c:\Users\VBDBABSCIT\.vscode\extensions\brapifra.phpserver-3.0.2\src\server\logger.php' (include_path='.;C:\php\pear') in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Unknown: open_basedir restriction in effect. File(C:\Users\VBDBABSCIT\.vscode\extensions\brapifra.phpserver-3.0.2\src\server\logger.php) is not within the allowed path(s): (C:\inetpub\wwwroot) in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Warning:  Unknown: Failed to open stream: Operation not permitted in Unknown on line 0
+[08-Dec-2024 10:04:59 UTC] PHP Fatal error:  Failed opening required 'c:\Users\VBDBABSCIT\.vscode\extensions\brapifra.phpserver-3.0.2\src\server\logger.php' (include_path='.;C:\php\pear') in Unknown on line 0
